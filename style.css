@@ -1,0 +1,58 @@
+body{
+
+    font-family: 'Bebas Neue', sans-serif;
+background-color: black;
+}
+#header_div{
+
+    
+        background:black;
+        color: rgb(220, 114, 114);
+        
+
+    }
+
+  #header_div p{
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(245, 68, 68);
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold ;
+
+  }  
+  #main_div button{
+
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    width: 130px;
+    font-weight: bolder;   
+    letter-spacing: 3px;   
+    background-color: black;
+
+
+
+  }
+  .copy_right_footer{
+
+
+
+
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 6px 6px 6px black;
+
+
+  }
+
+
+
+
+
+
+
